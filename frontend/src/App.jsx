@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar"
 import Hero from "./components/Hero"
 import Features from "./components/Features"
 import Foot from "./components/Foot"
+import TaskList from "./components/TaskList"
 
 function App() {
 
@@ -10,6 +11,7 @@ function App() {
     <Navbar />
     <Hero />
     <Features />
+    <TaskList />
     <Foot />
     </div>
   )
